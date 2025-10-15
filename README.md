@@ -3,8 +3,7 @@
 Estudante de **Ciência da Computação na Universidade Federal de Campina Grande (UFCG)**.  
 Sou apaixonado por tecnologia, aprendizado constante e por transformar ideias em código.
 
-Gosto de explorar diferentes áreas da Computação — desde o desenvolvimento de software até tópicos de **inteligência artificial** e **análise de dados**.  
-Acredito que boas soluções nascem de uma combinação de lógica, criatividade e curiosidade.
+Gosto de explorar diferentes áreas da Computação — desde o desenvolvimento de software até tópicos de **inteligência artificial** e **análise de dados**. Acredito que boas soluções nascem de uma combinação de lógica, criatividade e curiosidade.
 
 - Linguagens: **Python**, **Java** e **Clojure**  
 - Experiência com: `Git`, `Jupyter`, `pandas`, `scikit-learn`, entre outras ferramentas  
