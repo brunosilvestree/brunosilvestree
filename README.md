@@ -35,7 +35,7 @@ Gosto de explorar diferentes áreas da Computação — desde o desenvolvimento 
 
 ## Contato
 
-- Linkedin: [LinkedIn](https://www.linkedin.com/in/bruno-silvestre-112677375)  
+- Linkedin: [Perfil](https://www.linkedin.com/in/bruno-silvestre-112677375)  
 - Email: **brunosilvestredev@gmail.com**
 
 ---
